@@ -6,8 +6,6 @@
 
 
 ## Description
-Je suis un développeur Web depuis 2010.
-Je peux être Front-end, Back-end ou FullStack.
 
 Développeur Web depuis 2009, je peux être Front-end, Back-end ou FullStack.
 Je suis issu d'un DUT SRC (Services et Réseaux de Communication).
